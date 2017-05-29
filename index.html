@@ -1,0 +1,364 @@
+<html>
+
+<head>
+<title>Malhar'15 - A Chronicle</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="css/main.css" />
+
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+    <style>
+                 body{   overflow:hidden;      } #l1>img{width:100%;
+  height:100%;}
+  
+  p{color:#FFCC00;font-weight: bold;}      #home_icon{position:fixed;top:2vmin;left:0;}    
+</style>
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/init.js"></script>
+    <!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
+   
+    <noscript>
+      <p>Please enable JavaScript in your browser for better use of the website.</p>
+    </noscript>
+<script language="javascript">
+
+var dirx = 1;
+
+var diry = 1;
+
+var spdx = 100;
+
+var spdy = 100;
+
+var rot=3;
+
+var imgLeftInt;
+
+var imgTopInt;
+
+var imgHeight;
+
+var imgWidth;
+
+var winWidth;
+
+var winHeight;
+
+var t;
+
+function animBall(on) {
+
+    imgLeftInt = parseInt(document.images['ball1'].style.right);
+
+    imgTopInt = parseInt(document.images['ball1'].style.top);
+
+    imgHeight =  parseInt(document.images['ball1'].height);
+
+    imgWidth =  parseInt(document.images['ball1'].width);
+
+
+
+    winWidth = parseInt(computeWin().windWidth);
+
+    winHeight = parseInt(computeWin().windHeight);
+
+    if(dirx == 1){                            // if I should go right...
+
+        goLeft();
+
+    } else {                                     // otherwise, I'd better go left!
+
+        goRight();
+
+    }
+
+    if(diry == 1) {                             // if I should go down...
+
+        goDown();
+
+    } else {                                              // otherwise, I'll go up!
+
+        goUp();
+
+    }
+
+}
+
+function goLeft() {
+
+	
+
+    document.images['ball1'].style.right = imgLeftInt+4 +"px";
+
+    if (imgLeftInt >  (winWidth-imgWidth)){
+
+      
+
+        document.images['ball1'].style.transform = "rotate("+rot+"deg)";
+
+       if(rot>90)
+            rot=5;
+
+        dirx = 0;rot+=5;
+
+        spdx = 90 ;
+
+    }
+
+}
+
+function goRight() {
+
+	
+
+    document.images['ball1'].style.right = (imgLeftInt-4) +"px";
+
+    if (imgLeftInt <  5){
+
+      
+
+        document.images['ball1'].style.transform = "rotate("+rot+"deg)";
+
+        if(rot>90)
+            rot=5;
+
+        
+
+        dirx = 1;rot+=5;
+
+        spdx = 90 ;
+
+    }
+
+}
+
+function goDown() {
+
+	
+
+    document.images['ball1'].style.top = imgTopInt+4+"px";
+
+    if (imgTopInt >  (winHeight-imgHeight)){
+
+      
+
+        document.images['ball1'].style.transform = "rotate("+rot+"deg)";
+
+        if(rot>90)
+            rot=5;
+
+        diry = 0;rot+=5;
+
+        spdy = 90 ;
+
+    }
+
+}
+
+function goUp() {
+
+	
+
+    document.images['ball1'].style.top = (imgTopInt-4) +"px";
+
+    if (imgTopInt < 5){
+
+        
+
+        document.images['ball1'].style.transform = "rotate("+rot+"deg)";
+
+        if(rot>90)
+            rot=5;
+
+        diry = 1;
+
+        rot+=5;
+
+        spdy = 90 ;
+
+    }
+
+}
+
+function computeWin(){
+
+    if(document.body.clientWidth) {
+
+        this.windWidth=document.body.clientWidth;
+
+        this.windHeight=document.body.clientHeight;
+
+    } else {
+
+        this.windWidth = window.innerWidth;
+
+        this.windHeight=document.innerHeight;
+
+    }
+
+return this;
+
+}
+
+</script>
+
+<style>
+
+html{background: black url("logos/background.jpg");
+
+background-size: 100% 100%;}
+
+body{overflow:hidden; text-align: center;}
+.panel
+
+        {
+
+            padding:0;
+            font-size:0.85em;
+            height: 100%;
+
+        }
+.panel img
+{
+    width: 30% ;
+
+}
+a{text-decoration: none;}
+a#knob
+
+        {
+
+            border-bottom: none;
+
+            font-size: 3em;
+
+            background-color:transparent;
+
+            padding: 0.75em;
+
+            color:#FFFFFF;
+
+            text-transform: uppercase;
+            right:10%;
+
+
+        }
+
+    a#knob:hover
+
+        {
+
+            background-color:transparent;
+
+            color:#666;
+
+        }
+       #v{text-decoration: none;border-bottom: none;-moz-text-decoration-color: transparent; /* Code for Firefox */
+    text-decoration-color: transparent;}
+</style>
+
+</head>
+
+<body>
+
+
+   
+
+
+<a href="javascript:var t=setInterval('animBall()', 100)" id="start" style="cursor:default;">
+
+
+
+<img src="logos/a.png" style="position:absolute;right:10px;top:50px;" id="ball1" />
+
+</a>
+<div class="row">
+
+<div class="4u" >
+<div class="panel row">
+<br/>
+<br/>
+<div class="12u">
+			<p style="margin: 0 !important;">Presented By:</p>
+              <a href="http://careers.wipro.com/" target="_blank" id="v"><img src="logos/WCC.png" style="width:70%;"></a><br/>
+              <p style="margin: 0 !important;">Earn While You Learn at Wipro</p>
+
+		</div>
+
+        <div class="6u">
+            <p style="margin: 0 !important;">In Association with:</p>
+                            <a href="http://www.studentbazaar.com" target="_blank"><img src="logos/studentbazaar.png" style="width:80%;background:white;"></a>
+        </div>
+
+<div class="6u">
+			<p style="margin: 0 !important;">In Association with:</p>
+                            <a href="https://www.facebook.com/TOIMumbai" target="_blank"><img src="logos/bt.png" style="width:80%;"> </a>
+
+		</div>
+
+
+
+        </div>
+        </div>
+
+
+<div class="4u" >
+<br/>
+<br/>
+
+<img src="logos/imore.png" width="100%" >
+<br/><br/><a href="index.php" id="knob"><strong><img src="logos/Knob.png" width="80%"></strong></a>
+
+</div>
+
+<div class="4u">
+<div class="panel row">
+<br/>
+<br/>
+<br/>
+<div class="6u">
+          <p style="margin: 0 !important;">Co-Sponsored By:</p>
+               <img src="logos/spykar-logo.png" style="width:90%;">
+              
+        </div>
+<div class="6u">
+          <p style="margin: 0 !important;">Co-Sponsored By:</p>
+               <img src="logos/appyfizz.png" style="width:30%;">
+        </div>
+        <div class="12u">
+             <p style="margin: 0 !important;">Powered By:</p>
+              <img src="logos/RT.png" style="width:30%;">
+
+        </div>
+        <div class="6u">
+          <p style="margin: 0 !important;">Make-up Partner:</p>
+               <img src="sponsors/logos/maybelline.JPG" style="width:100%;">
+              
+        </div>
+<div class="6u">
+ <p style="margin: 0 !important;">Chocolate Partner:</p>
+               <img src="sponsors/logos/schmitten.PNG" style="width:95%;">
+              
+        </div>
+        </div>
+</div>
+
+</div>
+<script>
+
+window.onload = function(){
+
+   location.href = document.getElementById("start");
+
+}
+
+</script>
+
+</body>
+
+</html>

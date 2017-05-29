@@ -1,0 +1,839 @@
+Department Write-ups
+
+
+
+-----------
+
+Conclave
+
+startConclave
+
+
+
+<img src='pics/Conclave.jpg'><br><br>
+
+Where we host speakers that offer fresh perspectives and alternate discourse.<br/><br/>
+
+Where we organise events that challenge one's wit and intellect.<br/><br/>
+
+Meet the team:<br/><br/>
+
+OC Saanchi<br/>
+
+  &quot;With great power comes great menace-ity.&quot;<br/><br/>
+
+OG Nayanika<br/>
+
+&quot;Sociability is overrated.&quot;<br/><br/>
+
+OG Veydaant <br/>
+
+&quot;Off sweetness and other niceties due to medical prescription.”<br/><br/>
+
+OG Sanjana <br/>
+
+&quot;I told you so.&quot;<br/><br/>
+
+OG Shreya<br/>
+
+&quot;You merely adopted the snark; I was born in it, moulded by it.&quot;<br/><br/>
+
+OG Sachaet<br/>
+
+&quot;I&apos;m not familiar precisely with what I said, but I&apos;ll stand by what I said, whatever it was.&quot;<br/><br/>
+
+OG Kriti<br/>
+
+&quot;Why am I doing this?&quot;
+
+<br><br><br>
+
+
+
+endConclave
+
+
+
+
+
+-----
+
+Security
+
+startSECURITY
+
+<img src='pics/Security.jpg'><br><br>
+
+Security- Here at Security, we keep out the strangers and provide our atmost constant support and efficient work towards Malhar as a whole. It has made it their endeavour to make Malhar a safe experience for each and every human soul present here.<br><br>
+
+
+
+OC Kenneth – With an aura of selflessness and an extremely friendly nature, Kenny never fails to keep the people around him happy. He might portray himself as a man of steel, but he gives everyone that warmth like feel. Being a management student, he makes sure he utilizes his time to the fullest and gets his work done at the earliest.<br><br>
+
+
+
+OG Aldrin – He is amusingly ingenious in his ways. One can never know whether he&apos;s serious or kidding and somehow manages to keep a straight face always. He has more pictures of rocks and minerals in his phone than his girlfriend&apos;s, clearly stating his love for Geology.<br><br>
+
+
+
+OG Sagar – Tall, dark and handsome...Cliche right? Well, that is our Sagar. He is known for his subtle, loving and overly caring nature which can easily melt your heart. At the same time, he can put you to sleep with his weird sense of humour. Yet, you cannot ignore his Ex-NDA Cadet&apos;s personality which acts as a cherry on the cake. If you ever make it under his list of ‘loved ones you can&apos;t surely complain about anything.<br><br>
+
+
+
+OG Aaron – A person who spent 3 different years in 3 different departments, having 3 different posts. If you wanna know how security works inside or outside college, do contact him.<br><br>
+
+
+
+OG Bertrand – A funny, smart and a truly fun person. He gets his work done with outmost ease and doesn&apos;t make it feel like a tedious task. A Patient, chilled out person.<br><br>
+
+
+
+OG Tanya – With an amazing personality and a great sense of time management, she adopts a democratic style of management. She gives more importance to the thoughts that come out of the group, rather than just her own individual ones.<br><br>
+
+
+
+OG Aniya – A bundle of energy, who&apos;s brain is always is working overtime whilst thinking of things might seem mundane to many. To her friends she is the one who has all solutions to their insane problems. All in all, Aniya is a Butterfly – a representation of endurance, hope and life.
+
+<br><br><br>
+
+
+
+endSecurity
+
+---------
+
+ASSISTANCE 
+
+startAssistance
+
+<img src='pics/Assistance.jpg'><br><br>
+
+ORGANISER-IN-CHARGE: PRIYANKA PRABHU a.k.a boss- The alpha female of the Malhar pack. Undeniably one of the smartest and funniest people you will ever meet – don&apos;t let her chilled attitude fool you! This girl means serious business like her addiction for buzzfeed and stationery and ofcourse Game of thrones. With her around, we don&apos;t need anything cuz Prabhu humare saath hai.<br><br>
+
+
+
+ORGANISER FLOORS: GALE D&apos;SOUZA a.k.a Nightin-Gale. The calm-headed leader of Assistance&apos;s largest sub-department and the department&apos;s sweetest voice. She is ever ready to take on a challenge (swimming to college everyday #justnerulthings). But be careful of annoying her because she wont bat an eyelid to give you a piece of her mind.<br><br>
+
+
+
+ORGANISER HALLS: TANVI RAVI a.k.a OCD Mumma. Every door to assistance opens through her (#halls). Psych is life for Miss OG Halls who literally comes from another city – Thane. She is undoubtedly the most organised soul of the department but one must beware of her psychotic episodes and know when to maintain distance. ;)<br><br>
+
+
+
+ORGANISER JUDGES: PRACHI SHUKLA a.k.a Rajan ki deewani. Nerd-in-denial. UP ki Rapunzel. Assistance&apos;s permanent portal to Prof Aggie&apos;s signature. Her witty jokes and her love for the royal family will never fail to surprise you. OG Prachi reaches her DKDC (don&apos;t-know-dont-care) point pretty quickly but she is “v.v.v.v.” passionate about her work!<br><br>
+
+
+
+ORGANISER FOYER: NAVED SAYED a.k.a  loverboy . Heading the most sought after sub department of Assistance is OG Naved. The only guy in the department, he sure enjoys all the attention. The most laid back member of the team –his chilled-out attitude balances out the department just fine. Also, he wears pink on Wednesdays and don&apos;t forget to ask him “wachoo doing?”
+
+<br><br><br>
+
+
+
+endAssistance
+
+--------
+
+SOUVENIRS
+
+startSouvenirs
+
+<img src='pics/Souvi.jpg'><br><br>
+
+Here, at Souvenirs, we literally live in the ‘present&apos;. With our judge gifts, we ensure that every judge at Malhar returns with a smile and a bagful of goodies! In addition, we are Malhar&apos;s Official Gift Shop; we make sure that the festival never leaves your hearts and homes. T-shirts, diaries, bookmarks, bags and a variety of hand-crafted products are sold at our Souvenirs stall on all three days of Malhar.<br>
+
+We blend creativity into the spirit of Malhar and present goodies which serve as lasting memories of the good times. Take home a Malhar souvenir and make every memory count!<br><br>
+
+
+
+The Team:<br><br>
+
+
+
+OC Ria: Obsessed with Bollywood, stationery and economics, you will find her going ‘aww&apos; at almost anything. This literature-lover randomly bursts into a song as often as she quotes movie dialogues.<br><br>
+
+
+
+OG Jennifer: Her obsession with hygiene truly displays her ‘Microbiology&apos; love. Wishing to explore India in every form, she boasts of reading up to three novels in a day.<br><br>
+
+
+
+OG Sayali: Fondly called the ‘Laughing Gas&apos; of the department, her favourite pastime is making everybody around her LOL. Creative, fun-loving and a total foodie, she has YOLO as her motto in life.<br><br>
+
+
+
+OG Meeti: Music is life for this ‘winter person&apos; who strongly believes that art is the best form of expression. For this aspiring psychologist, everybody she meets is a potential case study.<br><br>
+
+
+
+OG Antara: Sports are her life and travelling across the world is her dream. A total entertainment packet, she makes sure she gives her expert comments on every topic she comes across.
+
+<br><br><br>
+
+
+
+endSouvenirs
+
+--------
+
+ETC
+
+startETC
+
+<img src='pics/ETC.jpg'><br><br>
+
+ETC is a unique department that has shown domination in the field of Life Integrating Practices (LIP), syncing with our ability to show game winning strategies. It's almost as if we're out of an improvised theatre. We also do fillers. After Akshay was banished from Asgard, bitten by a vampire, had radioactive waste dumped into his eyes, and hit by a blast of gamma radiation, he was made Organizer in Charge of ETC. His team consists of:Angelique. No one will forget her. Not her look, not her name. The girl who was on fire. Rati, a Time Lady from the planet Gallifrey in the Constellation of Kasterborous.Ms. Alicia Vaz, of number four,Privet Drive, who is proud to say that she is perfectly normal, thank you very muchLegend tells of this legendary warrior who's OG skills were that of legend. oh and Joshua also likes to treat himselfFear may imprison you..But a dark knight- OG Joel, shall rise from the refiners fire and he will set you free.
+
+<br><br><br>
+
+endETC
+
+------
+
+ADMIN
+
+startAdmin
+
+
+
+<img src='pics/Admin.jpg'><br><br>
+
+The only thing constant is change, and Admin&apos;15 stands by that. With every effort to change the outdated systems and cliché working styles, this team works in a way that&apos;s barely comprehensible but highly efficient. They don&apos;t know believe in the “right moment” concept, for every moment is rightfully used here.<br><br>
+
+No work, no authority- OC- Amruta&apos;s basic work ethic. Adored for her crazy and incomprehensible working style- work is the most fun thing for her department. She&apos;s understanding, composed, yet firm and immovable, alert and very sharp.  When work descends, she dominates the room with an aura that creates a stunning silence.<br><br>
+
+Her ease while arranging passes, orderliness and impeccability which leaves no certificate wasted, work-readiness, and polished demeanor while handling registrations make Kanika, OG CPR a common favorite w.r.t work, and life. <br><br>
+
+They befriend numbers, and on the spot thinking best defines them-Juhi and Yashi. Known for their never-ending enthusiasm, ability to think real quick and right, these two scoring OGs leave no stone unturned in ensuring that nothing less than perfection is settled for.<br><br>
+
+Karan and Rishab- are the life of Admin. Owing to high energy levels and craziness, these Comps OGs define the fun element of Admin. Although very notorious, fun-loving and jocular- they make efficiency sound like an understatement for each of their lists will be devoid of any scope for mistakes.<br><br>
+
+ The Admin family is parented by Karan and Vandana, OG Outstations. Extremely well-spoken and polite- these guys are the best to represent Malhar to India and the go-to persons of Admin.<br><br>
+
+The co-ordinators-Rhea and Anuja, whose efficiency is indescribable connect the department with a constant effort to ensure smooth intra-admin functioning. They&apos;re kind, helpful and amazingly efficient.<br><br>
+
+Admin &apos;15 is not just a department. Here, Renaissance happens at every stage and every story matters.
+
+<br>
+
+<br><br>
+
+endAdmin
+
+----------
+
+FINE ARTS
+
+startFA
+
+
+
+<img src='pics/FA.jpg'><br><br>
+
+You might think that the department of Fine Arts is like the little shy child who likes to paint in a corner, but we&apos;re more like those crazy artists who share revolutionary dreams. We at Fine Arts have more on our plate than Anna&apos;s thali. Not only do we run events that bring out the hidden artist in college students, but also give artsy Xavierites a chance to paint to their hearts&apos; content.<br><br>
+
+ 
+
+Before we let you know any more, let's get to know the team:<br><br>
+
+ 
+
+OC Devika:<br>
+
+With the happiest (often creepiest) smile you&apos;ll ever see, Devika is a closeted meme. She has a penchant for doodling pretty swirls and a particular fondness for trolling people. Hailed by her team, with the chant, Devi-ka Aashirwaad, she effortlessly manages her OGs, cracks bad jokes and laugh unapologetically and strategizes to scare a few people along the way. <br><br>
+
+
+
+OG Sudhamshu:<br>
+
+With the keenest eye for detail, Sudhamshu does seem like a wise 'Old Monk', quiet and learned. He has spent his time in perfecting the art of comic timing and brevity. A single comment from him can make us either question our entire existence or have us laughing till our stomachs hurt. The sole male OG of our team.<br><br>
+
+ 
+
+OG Roshni:<br>
+
+If OGs were paints, Roshni would be UV paint. Crazy outside but steady inside, Roshni will make friends with you in a minute & creep you out in the second. Whether it&apos;s adding more memes to Devika&apos;s treasury or keeping a keen watch on our functioning like Gregory, Roshni is FA's very own pocket-size dynamite.<br><br>
+
+ 
+
+OG Varada:<br>
+
+Smart and no-nonsense, Varada may seem like a tough cookie, but that&apos;s only until you know her. Easy going & fun loving, she epitomizes the iceberg, revealing only the tip, along with a vast knowledge of Bollywood, and fine artistic skills, Varada is also FA's very own financier.<br><br>
+
+ 
+
+OG Kavya:<br>
+
+This OG of ours may not be the tallest person you&apos;ve met, but she&apos;s hiked mountains that would get anyone fainting. Nothing really fazes Kavya, whether it&apos;s Roshni&apos;s attempt to scare, or the other hilarious shenanigans we pull off.  <br><br>
+
+ 
+
+OG Raashi:<br>
+
+The only non-artist, Raashi is an illegal immigrant in the department. In meetings, this one is known to break into laughter that has been described as ‘the sound of a retarded walrus&apos;. Full of energy and quirkiness, Raashi is a proud ex-Conclaver and ex-Logger. She also owns a cat who hates the world.
+
+
+
+<br><br><br>
+
+endFA
+
+-------
+
+RAGA
+
+startRaga
+
+
+
+<img src='pics/Raga.jpg'><br><br>
+
+Raga is Malhar's official creative writing department. Sure, we read, we write, we Grammar Nazi. Well, not all of us. <br><br>
+
+
+
+But we also edit and lay out the Malhar Rules and Regulations. And feature the Workforce's shining moments (as well as a few spotty ones) in the Malhar Blog. Oh, and we dig comics. Comic Con, anyone?<br><br>
+
+
+
+OC Adityesh towers over all things Raga this year. Purportedly by 6 feet and 1 inch. Having never read The Hunger Games, however, and with his less-than-kind feelings for Harry Potter, his OGs seriously question his sanity. Adityesh stays in college around the clock, seeing the department through the darkest hours of the night and the most nascent moments of the morning. Did we mention he's a Hostelite?<br><br>
+
+
+
+BlOG Nia has just stepped in, crushed like a leaf in one of those Virar fast trains. But don't be fooled: behind those disarmingly sarcastic eye-rolls and raised eyebrows hides a mean, keen Blog-post sniffing machine. She also has an extra tooth, which might not aid in the sniffing but goes a long way in her smile.<br><br>
+
+
+
+OG Shreya - The Stats major amidst the diehard OGs. While busy juggling the odd exam or two with her creative content duties, you can find her furtively penning her ideas for her next masterpiece (read: the Raga chart) in the library. <br><br>
+
+
+
+Some people judge a book by its cover. Chances are that OG Namrata (Creative Content) will judge you by the TV shows you watch and the extent of your love for Economics. You name it, she's made a diary entry, a nifty list and an editable spreadsheet for it. <br><br>
+
+
+
+OG Ipshita is known for her boundless enthusiasm for improving her InDesign. Her compulsive Pinning and slightly disturbing love for creatives makes her quite formidable, although it never shows on her face. <br><br>
+
+
+
+Meanwhile, OG Raina, quietly sits in a corner, going over her creatives, while simultaneously correcting grammatical errors in her articles, and even this write-up. Not that were are any. Right?<br><br>
+
+Apostrophe catastrophes: Beware.<br><br> 
+
+
+
+Raga '15: For letter or for verse.
+
+<br><br><br>
+
+endRaga
+
+-------
+
+IPA
+
+startIPA
+
+<img src='pics/IPA.jpg'><br><br>
+
+IPA is not just a department. It is a team, a unit that fosters a bond, the glue binding it being the mutual inclination towards Indian culture.The department is led by OC Bandhuli -calm, patient and diligent. The OG crew comprises of the ever-smiling and sincere Radhika; the vivacious and chirpy Tejaswini; Arundhati, the
+
+sensible and work- worshipping one; the vibrant and hard task-master Pratha and the flamboyant and entertaining Tejas.
+
+We are family, a desically crazy family. ;) 
+
+<br><br><br>
+
+endIPA
+
+--------
+
+WPA
+
+startWPA
+
+<img src='pics/WPA.jpg'><br><em><br>
+
+Mallika- OC Mallike (no matter how much she denies the name, it is hers from now to forever) is easily the shadiest OC in Malhar. Her day doesn&apos;t start without a diet coke and/or coffee. Her ability to switch from borderline lunacy to serious work mode is second to none. To quote this excessively caffeinated OC “But I&apos;m v nice ya you guys!” 
+
+#savecampacola<br><br>
+
+
+
+Ayesha- OG Ayesha is easily the powerhouse of WPA. She'll take on any problem and has on her a perpetual stock of apples and dry fruits. She will laugh at literally anything, from jokes she's heard a billion times, to disturbingly morbid things (dead baby jokes being her favourite). <br><br>
+
+
+
+Tanaya- OG Tanaya is your regular OCD, super organised WPA person. Her answer to everything except the question “do you want fries” is NO. She thinks schezwan is the answer to all of man&apos;s worldly problems and speaks fluent Italian. <br><br>
+
+
+
+Harshita- Every time a green coloured heart emoji flickers on to your screen it has to be a message from this pretty baniya OG. Her breakfast and lunch both comprise tons of Tropicana juice and coffee (and orange ice cream). Sleep is an alien concept to her.<br><br>
+
+
+
+Rhea- OG Rhea is the best example of the line ‘shady is the new cool&apos;. Oh wait, that was her line. With a sense of humour that could kill or get her killed, Rhea is a constant source of entertainment, but is also your go-to person for serious problems and real talk. <br><br>
+
+
+
+Mugdha- With her dimples and tiny stature OG Mugdha is easily the resident baby of the department, however she can be a scary ninja when she chooses to be. She gives Anna Kendrick serious competition at the Cup song.<br><br>
+
+
+
+WPA: When the stage is too small, we bring to you the world. JK the stage is quite big. When we&apos;re not busy making a fool of ourselves, we organise some of Malhar&apos;s biggest performing arts events. Why don&apos;t we perform you ask? Well, we would if you wanted to clear a room.
+
+<br><br><br>
+
+endWPA
+
+---------
+
+TEXXX
+
+startTexxx
+
+<img src='pics/Texxx.jpg'><br><br>
+
+There are  so many dimensions to a great performance. There are the artists,their music,the people who deal with the logistics of it,those who ensure that the artists are happy,those in charge of the venue and so many others who make a performance what it is. There are a few of us though,rarely seen on stage but still one of the most important facets of a performance. We are Texxx. We are one of those departments which is meant to work behind the scenes, literally. We are not to be seen or heard while we have others heard and seen. It is mostly perceived that music is sound but it is in fact, sounds, that make music, and we ensure that you get the best of it. Our lighting enables you to have a visual experience like few others. TEXXX is a department that needs its workforce to either be faster than sound or as fast as sound, its a sort of commando unit where it needs quick thinking and decisive people.
+
+<br><br><br>
+
+endTexxx
+
+--------
+
+LOGS
+
+startLogs
+
+
+
+<img src='pics/Logs.jpg'><br><br>
+
+OC
+
+Simeon- The rugged-hard-to-decipher-stud boy. One look can make you hide yourself in a hay stack. But don't give up until you see the brilliant soul inside the serial killer body. You might just drool over!<br><br>
+
+
+
+OG 
+
+Rachael- The picture would be incomplete without our special caterer. She&apos;s the spice of our heart! She&apos;ll never let anything weigh her down! Behind her every expression is a galaxy of thoughts that only a few can get a peek into!<br><br>
+
+Ashley- This stud has been on-the-roll since your interviews. He is full of life and always up for erecting structures. Cute, strong and hardworking, make sure you don&apos;t fall for them dolle-sholle. Keep an eye out for this perfectionist!<br><br>
+
+Steffi- Known for her cheerful and bubbly nature, she&apos;ll make you believe in "love at first sight". She&apos;s blessed with many talents and baking is just one of them. Beware of that stunning smile because getting over it will take a long while!<br><br>
+
+
+
+Denuer- Also known as the Google of everyone in town. Deneur D'Costa is one with insane memory skills and a personality that will enchant your life. He is one who always uses his classrooms wisely!<br><br>
+
+
+
+Daryl- Close your eyes and think of the axe chocolate boy. Yes, often mistaken as a friendly smile there are loads of hidden intentions behind that one. You might just be lucky to get a bite of this chocolate!<br><br>
+
+
+
+Co-ordinators<br>
+
+
+
+Kirsten- The Holiest among us all. Kirsten is one that you can cherish forever! He will always brighten your sulky day. You might want to add some physics to him but his chemistry will already kill you!<br><br>
+
+
+
+Alisha- This happy-go-lucky face has a lot more to it than it appears. She&apos;s an amazing person but you don&apos;t step on her tail and expect to stay alive. If you miss out on her this Malhar, what you been doing?<br><br>
+
+Rhea- Never seen anyone as happy and talkative as she can be once you know her. Known as Racheal, Rochelle and ten others names, this item is one that will win your heart and treasure it!<br><br>
+
+
+
+Jeshron Tao consultant: This blabber mouth is one that will startle you. He is our one for all and all for one.  You'd be crazy not to want a chunk of this belly dancer!
+
+<br><br><br>
+
+endLogs
+
+-----
+
+HOSPITALITY
+
+
+
+startHospitality
+
+<img src='pics/Hospi.jpg'><br><br>
+
+Meet our group of superheroes who save the workforce from hunger and loneliness.<br>
+
+Introducing you to Maria Hill, Coordi Ayman Contractor, the behind the scene organiser except when there is need for some serious ass kicking. Then we have Coordi Sana Marwaha, who is no less than the silent assassin, the Black Widow. She's swift and there'll be no playing mind games with this one. Coordi Abhiroop Sen is Hospi's very own Jarvis, providing us with information, along with valuable insight (which is ignored more often than not). <br>
+
+Next up is OG Radha Joshi, who bears resemblance to Hawk Eye and is the one who keeps our family together. Hardworking, calm and collected at all times, she's the one to go to when you need help. Then we have out very own macho guy, OG Karan Gujarati, standing in for Thor. Party animal and life saver, he is the guy you would go to when you want to get away with stuff. Then comes our OG Anshul Maudar, who like Iron Man is the one who gets us most of our stuff for free (read: he's OG sponsorship). Inordinately fond of trains, he likes to think they are some sort of fancy gadgets. Coming up next is OG Neha Betai, our very own Hulk. Smart and very easy to talk to, except for when she is angry and turns into a gigantic, green monster (and you don't want to know how often that happens). <br>
+
+Finally we have our Captain America, OC Gauri Singh, the sensible one who thinks twice and maintains the peace. Although sometimes a little old fashioned (read: she's the oldest in the group), she's always open to new ideas as long as they don't lead to upheaval in the workforce.
+
+<br><br><br>
+
+endHospitality
+
+------
+
+LA
+
+
+
+startLA
+
+<img src='pics/LA.jpg'><br><br>
+
+At Literary Arts you make them write, you make 'em speak and most importantly you make 'em ingeniously crazy. Meet the team:<br> 
+
+OG Kriti: She might be small,<br>
+
+        but her laugh and bubbly-ness can over power us all.<br>
+
+&quot;Life is short, and so is Kriti&quot;<br>
+
+
+
+For all your woes she's the one to call.<br><br>
+
+
+
+OG Anandita: 
+
+
+
+Calm and poise she maintains,<br>
+
+ ever fabulous is her short mane. <br>
+
+
+
+The youngest one here, breezing through prompts like a pro,<br>
+
+
+
+ Wittiness like you'll never know<br><br>
+
+
+
+OG Shreya: LA's mascot of Enthusiasm, <br>
+
+            Passion for Eco flows through her jism<br>
+
+
+
+Watch out for her sudden outbursts of excitement, <br>
+
+
+
+Brain, rain and Mane, in that order of increment. <br><br>
+
+
+
+OG Andrea: Creative and pretty as you'd every know,<br>
+
+
+
+Soft, calm and a voice sweet and low<br>
+
+
+
+Wields her pen at short notice<br>
+
+
+
+Perfection is what she's become after a lot of practice. <br><br>
+
+
+
+OG Sarjan: <br>
+
+
+
+The sole representative of the opposite gender,<br>
+
+           His Gujju-ness is an entertainer at its best, <br>
+
+
+
+Have a question to ask or a fact to confirm?<br>
+
+
+
+He's your go-to guy at this fest.<br><br>
+
+
+
+OC Mrunmayee: <br>
+
+
+
+Awkward, organised and kind,<br>
+
+
+
+truly from the farthest abode- <br>
+
+
+
+you might just travel back in time,<br>
+
+
+
+but most importantly- literarily inclined.
+
+<br><br><br>
+
+
+
+endLA
+
+-------
+
+GRAFFIX
+
+
+
+startGraffix
+
+<img src='pics/Graffix.jpg'><br><br>
+
+There's more to graffix than meets the eye. Over here, not only can you share your love for colors but explore much more than there already is to art. In the technical sense, we paint the elaborate backdrops showcased all over the college during Malhar alongside making maximum use of the space given to us for decor with thoughtful installations. Besides that, we also handle the lounge sales that take place every year during the days of Malhar. Our sub department Calligraphy is quite a wonderful one too. Writing to the tunes of art is just another one of our fortes. In short, we are a happy bunch, always looking forward to spending those three months with paints, good music and fun people. Moreover, OC Moumita along with her OGs namely Carmel, Anushka, Juhi, Poorva and Krishna will ensure you have wonderful memories to live by. 
+
+<br><br><br>
+
+endGraffix
+
+--------
+
+WINC
+
+
+
+startWINC
+
+<img src='pics/Winc.jpg'><br><br>
+
+The music wafts through a fleet of airy dancers,<br>
+
+ and actions crafted through the playwright&apos;s dream, <br>
+
+a misty aura through the labyrinth,<br>
+
+a manic canvas and whiffs of pastel paint,<br>
+
+The torrential ravaging of analysis<br>
+
+casts  songs of experience<br><br>
+
+This and more, at Workshops Inc. Delve into the world of the arts- be it performing, literary or fine arts. We give you a chance to unleash your inner desire of learning, creating and doing something new, all this for free! Meet the five individuals who found their way through to spearhead the department after volunteering as tributes.<br>
+
+OC Ankita: W.Inc boasts of a rather high profile OC, who was Laptop OC for 2 months. She loves listening to Taylor Swift, but being a self-proclaimed rap goddess, her jam is Nicki Minaj. Her talents include surviving America and relevant knowledge of the permissible limit of e. Coli.
+
+OG Anisha: Diagnosed with regular Freudian slips. She rarely raises her head enough, as the books keep piling up. Claims to be inactive on social media but secretly stalks her beloved team members.<br>
+
+OG Shimona: Our quintessentially Bandra OG, who takes 5 minutes to pronounce complex words like “Kathputli” but crawls her way through street stalls to grab a bite of a vada pav. Fun fact: Can twist her tongue 360∙ (Apply to W.Inc for demo)<br>
+
+OG Dalreen: Obnoxious townie, and more Bandra than Shimona. Takes pride in watching test cricket (lower order batting is her favourite) and is very serious about vegemite. She lives no more than 5 feet above the ground,and is often found on twitter before uni. <br>
+
+OG Shitanshu:  The Zomato of the department knows more about Mumbai than the other four combined. He would totally do Logs in a parallel universe and become OG Gymkhana. He is passionate about muggle quidditch and thus is often found with a broom and a dust pan. 
+
+<br><br><br>
+
+endWINC
+
+---
+
+PR
+
+
+
+startPR
+
+
+
+<img src='pics/PR.jpg'><br><br>
+At Public Relations, we are all adept in certain arcane arts. You’ll
+find us everywhere- college corridors, social media, newspapers and
+malls and our ETA is the most fun time of the day. We scale mountains
+of mundane-ness to give you the ins and outs of Malhar, thus ensuring
+that you know everything your favourite fest has to offer - right from the
+theme to new events, exhibitions, talks, workshops and more.<br>
+And when we aren’t sweating it out, we can be found chilling with
+Puddles.<br>
+Puddles who? They asked, once upon a time.<br>
+Now, Puddles has us to thank for his rise to stardom.
+<br><br><br>
+
+endPR
+
+---
+
+FINANCE
+
+
+
+startFinance
+
+<img src='pics/Finance.jpg'><br><br>
+
+Genius, millionaire, tally-freaks! That&apos;s how we define ourselves. Toiling our way through four rigorous months, we as a department work incessantly to manage the execution of Malhar. The basis of the working of the finance department can be &quot;Chronicle&quot;-d by using a single word- money. From setting budgets for each department, issuing cheques and giving out reimbursements, to taking care of stationery requirements, certificates and prize bags, this department literally has its hands full.<br><br>
+
+ 
+
+
+
+  
+
+OC Reuben:  A watchful guardian (of the Malhar Wealth), a silent protector (of the finance safe). Just like everything in accounts must balance each other, he is the one who creates an equilibrium environment between work and fun.<br><br>
+
+ 
+
+ 
+
+OG Rutwij: Who says BMM can't handle finance? Wait, until you meet him as he charms you with his wit and spontaneity.  <br><br>
+
+ 
+
+OG Simran: The younger they are, the smarter they get.You don't want to get on her bad side, cause she's here to stay.<br><br>
+
+ 
+
+ 
+
+OG Eesh: The Delhi boy, capable of embodying the best and worst of the city.  Coming from the Nation's capital, this business mind keeps busy dealing with capital.<br><br>
+
+ 
+
+OG Anjali: Sugar, Spice and Everything nice. She brings a unique energy to the group with her urge to go the extra mile and love for all things crazy.<br><br>
+
+  
+
+OG Yashvi: The silent killer. No bill, no cheque or even a single unaccounted rupee, escapes her all seeing eyes<br><br><br>
+
+
+
+endFinance
+
+---
+
+MARKETING
+
+
+
+startMarketing
+
+<img src='pics/Marketing.jpg'><br><br>
+
+Be it a fat year, be it a lean far, we make it rain.<br><br>
+
+ 
+
+Our mark stays ubiquitous, albeit ambiguous; constantly resonating the screams, laughs; sweat and tears we've used to pump up the fest. If we aren't shouting, screaming or sweating it out with sponsors, you can catch us in the Moffice. If you have money, we won't bite.<br><br>
+
+ 
+
+We've sold and we're doing it again.<br><br><br>
+
+endMarketing
+
+---
+
+COMPS
+
+
+
+startComps
+
+<img src='pics/Comps.jpg'><br><br>
+
+A little wee dungeon hidden out of sight to most workforce is the engine of Malhar.<br>
+
+These hardworking hunched over beings with a strange affinity for computers are surprisingly friendly when offered food.<br><br>
+
+
+
+Humble servants of Larry, the king of the Comps room, are the safekeepers of the precious WiFi password. <br><br>
+
+
+
+Only the brave shall survive. Or the mildly anxious.<br><br>
+
+
+
+Jobin (OC Computers): The king of the castle. The man who makes everything run smoothly and makes sure the department functions sweetly and efficiently. He works so hard that we need to force him to catch a little sun, from time to time.<br><br>
+
+
+
+Anthony (OG Hardware): Tinkerer, mad scientist and master of computer-speak. Our in-house Dr. Fixit, can coax any stubborn computer whirl into life. His knowledge of hardware, unsurpassed, he'll do way more than turn your computer off and then on again.<br><br>
+
+
+
+Muktai (OG Production and Documentation): Capturer of light, bender of shadows.<br>
+
+The woman who will go at any length to find the perfect shot. Documenting every little experience of Malhar, she'll make sure that every memory, every emotion will echo for many Malhar's to come.<br><br>
+
+
+
+Sumedha (OG Website): The beats of the Comps room, the 'clickety-clack' of her keyboard. Tirelessly typing away pages of codes too complex for most to comprehend, she can type circles around The Flash without even trying.<br><br>
+
+
+
+Siddharth (OG Creatives): Quiet, sleepy and laid back individual who seems to be on break the whole day. He brings out his mad side through his work, an explosion of quirk and colour, and the occasional awful joke.<br><br>
+
+
+
+Manjiri and Anisha (Co-ordinators P&D/ Creatives): Our bundles of energy, ever ready to work and shoot out a vivid array of ideas. Computers without them is unfathomable.
+<br><br><br>
+
+<br><br><br>
+
+endComps
+
+---
+
+QUARTET
+
+
+
+startquartet
+
+<img src='pics/Quartet.jpg'><br><br>
+
+After a brief hiatus with The Trinity in 2014, the Quartet is forged anew. The driving force behind three days of eclectic keynote addresses and events that try the boundaries of the imagination, these four minds have channelled their collective brain-power to harness the free-thinking, dynamic spirit of Malhar this year.<br/><br/>
+
+CHAIRPERSON : MILLONI DOSHI<br/>
+
+
+
+VICE CHAIRPERSON (CONCLAVE) : JHEEL GADA<br/>
+
+
+
+VICE CHAIRPERSON (EVENTS) : AVANTI PATEL<br/>
+
+
+
+VICE CHAIRPERSON (MANAGEMENT) : SIDHDHI SUBHEDAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br/>
+
+endquartet

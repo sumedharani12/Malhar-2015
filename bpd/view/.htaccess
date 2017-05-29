@@ -1,0 +1,4 @@
+AuthName "Restricted Files"
+AuthType Basic
+AuthUserFile /home/malharfe/public_html/malharfest.org/bpd/.htpasswd
+Require valid-user

@@ -1,0 +1,30 @@
+// strip tags to avoid breaking any html
+$string = strip_tags($string);
+
+if (strlen($string) > 500) {
+
+    // truncate string
+    $stringCut = substr($string, 0, 500);
+
+    // make sure it ends in a word so assassinate doesn't become ass...
+    $string = substr($stringCut, 0, strrpos($stringCut, ' ')).'... <a href="/this/story">Read More</a>'; 
+}
+echo $string;
+
+
+
+while($row = mysql_fetch_array($result))
+{
+echo "\n";
+echo truncate($row['article_text'],"article.php","article_id",$row['article_id']);
+}
+
+//function to truncate text and show read more link
+function truncate($mytext,$link,$var,$id) {
+//Number of characters to show
+$chars = 25;
+$mytext = substr($mytext,0,$chars);
+$mytext = substr($mytext,0,strrpos($mytext,' '));
+$mytext = $mytext." <a href='$link?$var=$id'>read more...</a>";
+return $mytext;
+}
