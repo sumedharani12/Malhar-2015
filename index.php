@@ -120,7 +120,7 @@ $(document).ready(function(){
   <area shape="rect" coords="60,90,158,175" id="conclave" alt="" title="" style="cursor:pointer;">
   <area shape="rect" coords="130,284,214,369" id="events" alt="" title="" style="cursor:pointer;">
   <area shape="rect" coords="292,362,397,453" href="pdf/RnR.pdf" id="rnr" target="_blank" alt="" title="">
-  <area shape="rect" coords="380,60,450,145" href="tech_blog/blog.php" id="blog" target="_blank" alt="" title="">
+  <area shape="rect" coords="380,60,450,145" href="http://blog.malharfest.org/" id="blog" target="_blank" alt="" title="">
   <area shape="rect" coords="360,588,448,693" id="contact" alt="" title="" style="cursor:pointer;">
   <area shape="rect" coords="830,65,915,147" href="sponsors/index.php" id="spon"alt="" title="">
   <area shape="rect" coords="850,304,960,389" href="social/index.php" id="soc" alt="" title="">
